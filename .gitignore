@@ -1,0 +1,10 @@
+.csv
+data_hand.csv
+
+potest.py
+test.py
+testhands.py
+
+gen.py
+__pycache__/
+.idea/
