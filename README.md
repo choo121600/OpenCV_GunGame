@@ -2,7 +2,7 @@
 opencv와 mediapipe, KNN를 이용한 총 게임
 
 ## 실행
-1. `pip install -r requirement.txt`
+1. `pip install -r requirements.txt`
 2. python main.py
 
 ## 규칙
